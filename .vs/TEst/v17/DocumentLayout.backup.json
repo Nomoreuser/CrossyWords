@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gerald\\TEst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF3545E-0D8F-54C5-0B11-EAD3BA9F7B5B}|Assembly-CSharp.csproj|c:\\users\\gerald\\test\\assets\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF3545E-0D8F-54C5-0B11-EAD3BA9F7B5B}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Gerald\\TEst\\Assets\\Script\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Gerald\\TEst\\Assets\\Script\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Script\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:10:53.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

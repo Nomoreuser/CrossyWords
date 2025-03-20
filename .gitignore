@@ -1,0 +1,52 @@
+# ========== Unity Specific Files ==========
+Library/
+Logs/
+Temp/
+Obj/
+Packages/
+UserSettings/
+
+# Ignore .meta files in some cases (optional)
+# *.meta
+
+# Prevents uploading local project settings
+ProjectSettings/EditorBuildSettings.asset
+
+# ========== Build Files ==========
+Build/
+Builds/
+[Bb]uild/
+[Bb]uilds/
+[Bb]uild[0-9]*/
+
+# Ignore Crash Reports
+CrashReports/
+
+# ========== IDE & System Specific Files ==========
+# Visual Studio / JetBrains Rider
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# MacOS files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# ========== Other Generated Files ==========
+# Auto-generated files from Unity Collaborate
+.Collab/
+# Ignore Unity’s Addressable Asset System
+Assets/AddressableAssetsData/
